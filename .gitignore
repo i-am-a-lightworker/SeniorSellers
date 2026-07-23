@@ -1,0 +1,5 @@
+.venv/
+.venv-broken-python313/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
